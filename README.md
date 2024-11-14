@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# Proyecto-de-Visualizaci-n-de-Respuestas-en-JSON
+Este proyecto es una aplicación web construida con Nuxt 3 y Pinia, diseñada para mostrar una lista de respuestas con información sobre su nivel de calidad. La aplicación utiliza una API simulada para obtener los datos en formato JSON y gestiona el estado de las respuestas en el cliente mediante Pinia.
+>>>>>>> 82d04b57d8de6990a1f5703d69431f59bcce07c4
